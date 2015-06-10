@@ -2,7 +2,7 @@
 This is android-cube-app for Eclipse. 
 It  is form android-cube-app
 
-*   这是Eclipse版本，方便Eclipse版本的童鞋直接使用
+*   这是Eclipse版本，方便使用Eclipse的童鞋们直接使用
 *   项目效果图(https://github.com/liaohuqiu/android-cube-app)
 
 
