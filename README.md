@@ -1,7 +1,7 @@
 # android-cube-app-for-eclipse
 This is android-cube-app for Eclipse. 
 It  is form android-cube-app(https://github.com/liaohuqiu/android-cube-app).
-
+这是Eclipse版本
 ### Eclipse运行项目依赖包
 *  cube-sdk.  https://github.com/etao-open-source/cube-sdk  core文件夹作为一个类库项目引入
 
